@@ -4,11 +4,11 @@ import os
 version = '0.0.1'
 
 setup(
-    name='frappe_io',
+    name='foxtrotli_co',
     version=version,
-    description='frappe.io',
-    author='Frappe',
-    author_email='info@frappe.io',
+    description='FoxtrotLI.co',
+    author='Brandon Fox',
+    author_email='bfox@foxtrot.email',
     packages=find_packages(),
     zip_safe=False,
     include_package_data=True,
